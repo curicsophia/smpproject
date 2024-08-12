@@ -1,5 +1,5 @@
 def getInfo():
-    file = open("txt1.txt", "r", encoding='utf-8')
+    file = open("inputfile.txt", "r", encoding='utf-8')
     quoteList = {}
     opinionList = {}
 
